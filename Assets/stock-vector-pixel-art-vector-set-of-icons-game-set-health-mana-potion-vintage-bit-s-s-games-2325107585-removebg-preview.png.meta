@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 57506a93c81371c4b8cf106bc50ee0f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 338
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e26ae86927b54caf6cbe5079a5d7d
+      internalID: -364628458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 339
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ed968f0e370b4abc8847ef5e2b635
+      internalID: -2058881949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ed669928146343a384f1609e054d1
+      internalID: -1478203764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 339
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d92479ead96cf4daab2f289ce5646b
+      internalID: 535735960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f5a651165f6f746816d0eaa299e36e
+      internalID: -1300091585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74df89aa3569614983851e66eea8094
+      internalID: 332961486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 216
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfebd3f5de910e49b2cc97361348434
+      internalID: -1221929598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 203
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03f8e46e48068409e9f1248d475c3f
+      internalID: 1400341787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326cb12e4c2bd145872162f3477f091
+      internalID: 1428328047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f80305a82534a4d871c0da27ffc36a
+      internalID: 690647424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 78
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edbf1d9b982592458633ba55529e9d7
+      internalID: 923560064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 75
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777503e0ad8c47b43b51e9ef3f0c98c2
+      internalID: 972762277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_0: -364628458
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_1: -2058881949
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_10: 923560064
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_11: 972762277
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_2: -1478203764
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_3: 535735960
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_4: -1300091585
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_5: 332961486
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_6: -1221929598
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_7: 1400341787
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_8: 1428328047
+      stock-vector-pixel-art-vector-set-of-icons-game-set-health-mana-potion-vintage-bit-s-s-games-2325107585-removebg-preview_9: 690647424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
